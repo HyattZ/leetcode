@@ -18,6 +18,11 @@
 			<td>Brick Wall</td>
 			<td>2017/05/11</td>
 		</tr>
+		<tr>
+			<td>535</td>
+			<td>Encode and Decode TinyURL</td>
+			<td>2017/05/12</td>
+		</tr>
 	</tbody>
 	
 </table>

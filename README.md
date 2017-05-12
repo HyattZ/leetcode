@@ -13,6 +13,11 @@
 			<td>Distribute Candies</td>
 			<td>2017/05/11</td>
 		</tr>
+		<tr>
+			<td>554</td>
+			<td>Brick Wall</td>
+			<td>2017/05/11</td>
+		</tr>
 	</tbody>
 	
 </table>

@@ -15,4 +15,7 @@
 | Count_Numbers_with_Unique_Digits         |
 | Predict_the_Winner                       |
 | two_Keys_Keyboard                        |
+| Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee |
+| Target_Sum                               |
+| Shopping_Offers                          |
 

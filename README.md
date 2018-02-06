@@ -18,4 +18,10 @@
 | Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee |
 | Target_Sum                               |
 | Shopping_Offers                          |
-
+| Climbing_Stairs                          |
+| Unique_Binary_Search_Trees               |
+| Best_Time_to_Buy_and_Sell_Stock_with_Cooldown |
+| Unique_Paths                             |
+| Best_Time_to_Buy_and_Sell_Stock          |
+| Longest_Palindromic_Subsequence          |
+| Combination_Sum_IV                       |

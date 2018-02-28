@@ -38,3 +38,11 @@
 | Burst_Balloons                           |
 | House_Robber                             |
 | Delete_and_Earn                          |
+| Find_Minimum_in_Rotated_Sorted_Array     |
+| Find_Smallest_Letter_Greater_Than_Target |
+| Find_the_Duplicate_Number                |
+| Kth_Smallest_Element_in_a_BST            |
+| Kth_Smallest_Elementin_a_Sorted_Matrix   |
+| Longest_Increasing_Subsequence           |
+| Search_a_2D_Matrix_II                    |
+| Search_Insert_Position                   |
